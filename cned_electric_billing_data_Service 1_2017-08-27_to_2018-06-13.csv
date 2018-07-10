@@ -1,0 +1,15 @@
+﻿Name,NICHOLAS SCHETTINI
+Address,"502 MILES AVE, STATEN ISLAND, NY 10308"
+Account Number,001100005465584
+Service,Service 1
+
+TYPE,START DATE,END DATE,USAGE,UNITS,COST,NOTES
+Electric billing,2017-08-27,2017-09-12,386.00,kWh,$96.28,
+Electric billing,2017-09-13,2017-11-09,600.00,kWh,$167.13,
+Electric billing,2017-11-10,2017-12-12,314.00,kWh,$82.83,
+Electric billing,2017-12-13,2018-01-12,404.00,kWh,$108.65,
+Electric billing,2018-01-13,2018-02-13,280.00,kWh,$85.22,
+Electric billing,2018-02-14,2018-03-15,272.00,kWh,$78.97,
+Electric billing,2018-03-16,2018-04-13,222.00,kWh,$68.23,
+Electric billing,2018-04-14,2018-05-14,278.00,kWh,$82.14,
+Electric billing,2018-05-15,2018-06-13,425.00,kWh,$121.76,
